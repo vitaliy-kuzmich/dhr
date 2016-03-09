@@ -2,7 +2,7 @@
 blockchain "double hashed request" pattern, ethereum, solidity<br>
 <br>
 This pattern solves the next problem: you need to store actions at the blockchain, that client did, this actions:
-1. can not be modified after client published it(for example movment in a game)<br>
+1. can not be modified after client published it(for example movement in a game)<br>
 2. this actions must be published just after everyone publish<br>
 3. this actions could be published just within some period of time<br>
 <br>

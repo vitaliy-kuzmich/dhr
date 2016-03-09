@@ -16,5 +16,5 @@ first request: <br>
 second step:<br>
 1. after the last client published its hash, notify everyone to send original actions with temporary generated keys, since now all of the actions can be opened, to make the blockchain calculate the result<br>
 2. validate actions: take the hash of received actions and compare it to previous received hash<br>
-3. process the bussiness logic<br>
+3. process the business logic<br>
 
